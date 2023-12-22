@@ -12,6 +12,8 @@ Xiaomi Mi Router 4A Gigabit Edition v2 Openwrt images
 
 支持IPV6,SFTP,Argon主题,负载均衡,多线多播,cloudflare-ddns
 
+支持编辑LED灯
+
 无FTP,KMS,科学上网插件，广告过滤等
 
 因为本款路由器Flash非常小也没有USB口不能编译添加太多功能，所以这款路由器在我的日常使用定位就是作为WIFI发射路由器，IP分配和网关都是上级x86主路由完成的，
